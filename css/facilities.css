@@ -1,0 +1,53 @@
+.facilities-start {
+	width: 605px;
+	padding: 25px 0;
+}
+
+.facilities-title {
+	color: black;
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 50px;
+}
+
+.facilities-text {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 28px;
+	color: #555555;
+}
+
+.fac-cards {
+	display: flex;
+	padding: 25px 0;
+}
+
+.fac-card {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+	width: 308px;
+	height: 320px;
+	justify-content: center;
+}
+
+.card-fac-img {
+	width: 68px;
+	height: 68px;
+}
+
+
+.card-fac-title {
+	padding-top: 25px;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 28px;
+
+}
+
+.card-fac-text {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 28px;
+}

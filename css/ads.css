@@ -1,0 +1,62 @@
+.ad-card {
+	padding: 25px 0;
+	display: flex;
+}
+
+.ad-right {
+	padding-left: 60px;
+}
+
+.ad-title {
+	color: black;
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 50px;
+	padding: 5px 0 20px 0;
+}
+
+.ad-descr {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 28px;
+	padding-bottom: 40px;
+}
+
+.ad-raiting {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 50px;
+}
+
+.web-user-card {
+	text-align: center;
+	width: 90px;
+	height: 99px;
+}
+
+.web-user-title {
+	color: #222222;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 46px;
+}
+
+.web-user-descr {
+	color: #222222;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22px;
+}
+
+.ad-btn {
+	height: 56px;
+	width: 167px;
+	border-radius: 8px;
+	background-color: #3771C8;
+
+	font-family: 'Open Sans';
+	color: white;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 24px;
+}

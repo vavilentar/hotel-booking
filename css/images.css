@@ -1,0 +1,17 @@
+.images-container {
+	padding: 25px 0;
+}
+
+.thumbs-img {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+}
+
+.thumbs-img img {
+	border-radius: 15px;
+}
+
+.main-img img {
+	border-radius: 15px;
+}
