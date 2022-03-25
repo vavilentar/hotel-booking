@@ -1,0 +1,26 @@
+footer {
+	padding: 50px 0;
+}
+
+.nav-item a{
+	color: black;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.first a{
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 32px;
+}
+
+.footer-text {
+	width: 264px;
+	padding: 24px 0 34px 0;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.social-icons img:not(:first-of-type) {
+	padding-left: 30px;
+}

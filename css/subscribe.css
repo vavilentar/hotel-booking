@@ -1,8 +1,9 @@
-.subscribe-block {
+.subscribe {
 	width: 1280px;
 	height: 450px;
-	background-image: url(../img/subscripe-bg.png);
+	background-color: #dadada;
 	border-radius: 15px;
+	padding: 25px 0;
 }
 
 .subscribe-title {
