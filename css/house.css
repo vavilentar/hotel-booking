@@ -1,13 +1,13 @@
-.ad-card {
+.house-card {
 	padding: 25px 0;
 	display: flex;
 }
 
-.ad-right {
+.house-right {
 	padding-left: 60px;
 }
 
-.ad-title {
+.house-title {
 	color: black;
 	font-size: 40px;
 	font-weight: 600;
@@ -15,14 +15,14 @@
 	padding: 5px 0 20px 0;
 }
 
-.ad-descr {
+.house-descr {
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 28px;
 	padding-bottom: 40px;
 }
 
-.ad-raiting {
+.house-raiting {
 	display: flex;
 	justify-content: space-between;
 	padding-bottom: 50px;
@@ -48,7 +48,7 @@
 	line-height: 22px;
 }
 
-.ad-btn {
+.house-btn {
 	height: 56px;
 	width: 167px;
 	border-radius: 8px;
